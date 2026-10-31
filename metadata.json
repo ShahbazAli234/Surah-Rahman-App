@@ -1,0 +1,6 @@
+{
+  "name": "Surah Ar-Rahman",
+  "description": "Premium Surah Ar-Rahman Quran application featuring authentic 78 Uthmani verses, English, Urdu, and Sindhi translations, multi-reciter audio with verse sync, prayer times, Qibla compass, Tasbih, and 99 Names of Allah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
